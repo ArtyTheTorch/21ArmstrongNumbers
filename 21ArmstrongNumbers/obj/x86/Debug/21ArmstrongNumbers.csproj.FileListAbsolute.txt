@@ -1,0 +1,10 @@
+C:\Users\gu425d\AppData\Local\Temporary Projects\21ArmstrongNumbers\bin\Debug\21ArmstrongNumbers.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\21ArmstrongNumbers\bin\Debug\21ArmstrongNumbers.pdb
+C:\Users\gu425d\AppData\Local\Temporary Projects\21ArmstrongNumbers\obj\x86\Debug\21ArmstrongNumbers.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\21ArmstrongNumbers\obj\x86\Debug\21ArmstrongNumbers.pdb
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\21ArmstrongNumbers\21ArmstrongNumbers\obj\x86\Debug\21ArmstrongNumbers.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\21ArmstrongNumbers\21ArmstrongNumbers\obj\x86\Debug\21ArmstrongNumbers.pdb
+C:\Users\GARRET\Documents\GitHub\21ArmstrongNumbers\21ArmstrongNumbers\obj\x86\Debug\21ArmstrongNumbers.exe
+C:\Users\GARRET\Documents\GitHub\21ArmstrongNumbers\21ArmstrongNumbers\obj\x86\Debug\21ArmstrongNumbers.pdb
+C:\Users\GARRET\Documents\GitHub\21ArmstrongNumbers\21ArmstrongNumbers\bin\Debug\21ArmstrongNumbers.exe
+C:\Users\GARRET\Documents\GitHub\21ArmstrongNumbers\21ArmstrongNumbers\bin\Debug\21ArmstrongNumbers.pdb
